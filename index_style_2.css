@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(20, 230, 237);
+}
+
+.container {
+    display: flexbox;
+    background-color: rgb(254, 254, 254);
+    margin-top: 40px;
+    margin-left: 500px;
+    width: 500px;
+    height: 550px;
+    padding-bottom: 70px;
+    padding-top: 3px;
+    padding-left: 15px;
+    box-shadow: 5px 5px 10px rgb(102, 103, 105);
+    border-radius: 10px;
+}
+
+.container .text {
+    text-align: left;
+    border: 5px solid rgb(19, 21, 14);
+    box-shadow: 5px 5px;
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 250px;
+}
+
+.container .text h1 {
+    text-align: center;
+}
+
+.box-one {
+    margin-top: 40px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+.box-one label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box-one input {
+    background-color: rgba(232, 231, 231, 0.782);
+    width: 450px;
+    height: 45px;
+    margin-top: 15px;
+    border: hidden;
+    box-shadow: 2px 2px 2px;
+    font-size: 20px;
+    text-indent: 7px;
+
+}
+
+.box-two {
+    margin-top: 40px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+.box-two label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box-two input {
+    background-color: rgba(232, 231, 231, 0.782);
+    width: 450px;
+    height: 45px;
+    margin-top: 15px;
+    border: hidden;
+    box-shadow: 2px 2px 2px;
+    font-size: 20px;
+    text-indent: 7px;
+
+}
+
+.box-three {
+    margin-top: 40px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+.box-three label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box-three input {
+    background-color: rgba(232, 231, 231, 0.782);
+    width: 450px;
+    height: 45px;
+    margin-top: 15px;
+    border: hidden;
+    box-shadow: 2px 2px 2px;
+    font-size: 20px;
+    text-indent: 7px;
+
+}
+
+button {
+    display: flexbox;
+    margin-top: 30px;
+    margin-left: 90px;
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    background-color: rgba(255, 228, 196, 0.803);
+    box-shadow: 1px 1px 1px 1px;
+}
+
+footer {
+    margin-left: 650px;
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
